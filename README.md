@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=AC93F7&lines=Welcome+to+Freddy's+GitHub+Page💻;Hello,+I'm+Freddy👋;Ambitious+Software+Developer🌟;Mechanical+Engineer🧑‍🔧;)](https://git.io/typing-svg)
 
-#### 👋🏻 I am curretently Junior in Mechanical Engineering Major, Computer Science Minor at The Cooper Union. I am passionate about robotics and software programming. Always eager to learn new programming language and take on exciting challenges.
+#### 👋🏻 I am curretently Junior in Mechanical Engineering Major, Computer Science Minor at The Cooper Union. <br/>I am passionate about robotics and software programming. Always eager to learn new programming language and take on exciting challenges.
 
 ### 🛠 Skills
 
