@@ -4,15 +4,6 @@
 
 #### 👋🏻 I am curretently Junior in Mechanical Engineering Major, Computer Science Minor at The Cooper Union. I am passionate about robotics and software programming. Always eager to learn new programming language and take on exciting challenges.
 
-### 💻 Github Stats
-<div align="center">
-  
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=freddyhong&theme=blue-green"/>
-  &nbsp;
-  &nbsp;
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freddyhong&theme=blue-green"/>
-</div>
-
 ### 🛠 Skills
 
 ![Static Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
