@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=AC93F7&lines=Hi%2C+I'm+Freddy+Hong+👋;Mechanical+Engineer+%2B+ML+Researcher;AI+for+Science+%26+Biomedicine;)](https://git.io/typing-svg)
 
-### 👋 About Me
+### About Me
 I am a **senior Mechanical Engineering student** with a **Computer Science minor** at **The Cooper Union** (NYC), graduating **May 2026**.  
 My work sits at the intersection of **machine learning, engineering systems, and scientific applications**, with current interests in:
 
@@ -15,7 +15,7 @@ I am actively involved in **academic research** and teaching with plans to pursu
 
 ---
 
-### 🔬 Current Focus
+### Current Focus
 - Machine Learning & Deep Learning (CNNs, Transformers, probabilistic models)
 - Genomics & Biomedical AI
 - Scientific computing & data pipelines
@@ -23,7 +23,7 @@ I am actively involved in **academic research** and teaching with plans to pursu
 
 ---
 
-### 🛠 Technical Skills
+### Technical Skills
 
 **Languages & Core Tools**
   
@@ -43,6 +43,6 @@ I am actively involved in **academic research** and teaching with plans to pursu
 
 ---
 
-### 🌐 Connect
+### Connect
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wghong22@gmail.com)
